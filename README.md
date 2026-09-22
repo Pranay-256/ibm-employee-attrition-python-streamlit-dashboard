@@ -99,4 +99,4 @@ The dashboard code was generated with the assistance of an AI coding agent (IBM 
 
 ## Author
 
-**Pranay** — IBM SkillsBuild Data Analytics with AI Internship (Bharat Cares), September 2026.
+**Pranay Jha** — IBM SkillsBuild Data Analytics with AI Internship (Bharat Cares), September 2026.
